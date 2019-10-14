@@ -1,0 +1,1 @@
+{"doctors":[{"drid":1,"drname":"Dr.swati","drspecialization":"cardio","dravailability":{"timein":4,"timeout":8,"date":"12/03/2019"},"noofpatient":2},{"drid":2,"drname":"Dr.sweta","drspecialization":"neuro","dravailability":{"timein":5,"timeout":9,"date":"20/03/2019"},"noofpatient":0}]}
